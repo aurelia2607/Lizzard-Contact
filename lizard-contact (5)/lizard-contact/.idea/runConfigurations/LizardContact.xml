@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="LizardContact" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.lizardcontact.MainApp" />
+    <option name="VM_PARAMETERS" value="--module-path lib --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base,javafx.media --add-opens javafx.fxml/javafx.fxml=ALL-UNNAMED" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <module name="lizard-contact" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
